@@ -12,7 +12,7 @@ export default function Navbar() {
   return (
     <nav className="flex items-center justify-between px-4 py-2 bg-black text-white">
       <div className="flex items-center gap-2">
-      <img src="/logo.png" alt="Logo" className="h-8 w-8" />
+      <img src="/Logo.png" alt="Logo" className="h-8 w-8" />
         <span className="text-xl font-bold">SEND IT     CA:</span>
       </div>
       
